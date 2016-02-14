@@ -1,0 +1,52 @@
+# To 'pip install' environmental dependencies to match those of HackerRank - https://www.hackerrank.com/environment #
+
+# Python Package Index - https://pypi.python.org/pypi?%3Aaction=browse
+
+# - PyCharm Installed w/ Anaconda3 #
+# numpy==1.10.4
+# scipy==0.17.0
+# scikit-learn==0.17
+# pandas==0.17.1
+# nltk==3.1
+# statsmodels==0.6.1
+# sympy==0.7.6.1
+# requests==2.9.1
+# beautifulsoup4==4.4.1
+
+# - Pip Installed w/ Virtualenv #
+# -- Available versions as of 02/13/2016
+nltk==3.0.5
+requests==2.9.1
+beautifulsoup4==4.4.1
+
+# -- Pip available as of 02/13/2016, but dependencies of uninstallable scipy & numpy.
+# scipy==0.17.0
+# statsmodels==0.6.1
+# scikit-learn==0.17
+# pandas==0.16.2
+# sympy==0.7.6.1
+
+# -- Pip available as of 02/13/2016, but unable to install.
+# numpy==1.9.2
+# scipy
+# scipy==0.17.0
+# scipy==0.16.1
+# git+https://github.com/scipy/scipy.git
+
+# -- Pip unavailable versions as of 02/13/2016
+# scipy==0.15.1
+# nltk==3.0.3
+# sympy==0.7.6
+# Requests==2.2.1
+
+# - HackerRank Naming Convention #
+# numpy@1.9.2
+# scipy@0.15.1
+# sklearn@0.16.1
+# scikit-learn@0.16.1
+# pandas@0.16.2
+# nltk@3.0.3
+# statsmodels@0.6.1
+# sympy@0.7.6
+# Requests@2.2.1
+# Beautiful Soup@4.4.1
